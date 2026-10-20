@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Airel Ezarul 👋
 
-<!--
-**airelezarul/airelezarul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I'm currently working on
+- A cool web app project using JavaScript / Python
+- Learning GitHub & Markdown basics
 
-Here are some ideas to get you started:
+### 🌱 I'm currently learning
+- Git & GitHub workflows
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack & Tools
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools:** VS Code, Git, GitHub
+
+### 📫 How to reach me
+- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+- **Twitter / X:** [@yourhandle](https://x.com/yourhandle)
+- **Email:** your.email@example.com
