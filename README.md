@@ -12,7 +12,4 @@
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Tools:** VS Code, Git, GitHub
 
-### 📫 How to reach me
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **Twitter / X:** [@yourhandle](https://x.com/yourhandle)
-- **Email:** your.email@example.com
+
